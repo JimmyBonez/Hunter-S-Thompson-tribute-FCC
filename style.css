@@ -1,0 +1,50 @@
+body {
+  background: url('http://static.tumblr.com/847d57b720a92f5cf32ae95902cc5533/zgwr8e7/lGNn1pp2z/tumblr_static_hunter-s-thompson-style-gonzo-fist-black-letters_kopie.jpg') no-repeat center center fixed;
+  -webkit-background-size: auto;
+  -moz-background-size: auto;
+  background-size: 20%;
+  -o-background-size: 20%;
+}
+
+h1 {
+  font-family: Impact;
+  color: red !important;
+}
+
+.jumbotron {
+  background: url('https://www.walldevil.com/wallpapers/w04/041124-benicio-del-toro-fan-art-fear-and-loathing-in-las-vegas-johnny-depp-movies.jpg') no-repeat center center;
+  background-size: cover;
+  color: white;
+}
+
+.quote-text {
+  font-family: 'Brush Script MT', cursive;
+}
+ul {
+  width: 70%;
+  margin-top: 100px;
+  margin-right: auto;
+  margin-bottom: 100px;
+  margin-left: auto;
+  padding: 10px;
+
+}
+#art1{
+  margin-top: 50px;
+  margin-right: auto;
+  margin-bottom: 50px;
+  margin-left: auto;
+}
+#art2 {
+  margin-top 50px;
+  margin-right: auto;
+  margin-bottom 50px;
+  margin-left: auto;
+}
+#art3 {
+  margin-top 50px;
+  margin-right: auto;
+  margin-bottom: 50px;
+  margin-left: auto;
+}
+
